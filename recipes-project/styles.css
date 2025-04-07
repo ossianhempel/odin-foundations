@@ -1,0 +1,27 @@
+/* general */
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: red
+}
+
+p, a, div, li {
+    font-size: 18px;
+}
+
+
+
+
+/* index */
+#recipe-list {
+    list-style: armenian;
+}
+
+.recipe-list-item {
+
+}
